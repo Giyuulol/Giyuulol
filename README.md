@@ -8,10 +8,10 @@
 
 ## 📈 Estatísticas do GitHub
 
-<div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
    <a href="https://github.com/Giyuulol">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giyuulol&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyuulol&layout=compact&langs_count=6&theme=radical"/>  
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giyuulol&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="border-radius: 10px;"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyuulol&layout=compact&langs_count=6&theme=radical" style="border-radius: 10px;"/>  
    </a>
 </div>
 
