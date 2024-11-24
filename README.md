@@ -8,9 +8,9 @@
 
 ### 🌟 Meus Projetos
 
-- **[projeto1](link_do_repositorio)**  
+- **[projeto1](https://github.com/Giyuulol/Jogo-de-dados)**  
   Um projeto interessante feito em HTML.  
-- **[Jogo-de-dados](link_do_repositorio)**  
+- **[Jogo-de-dados](https://github.com/Giyuulol/Jogo-de-dados)**  
   Um projeto de dados em C - Técnicas e desenvolvimento de algoritmos.
 
 ---
@@ -19,8 +19,8 @@
 
 <div>
    <a href="https://github.com/Giyuulol">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giyuulol&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="border-radius: 10px;"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyuulol&layout=compact&langs_count=6&theme=radical" style="border-radius: 10px;"/>  
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giyuulol&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="border-radius: 10px;"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giyuulol&layout=compact&langs_count=6&theme=radical" style="border-radius: 10px;"/>  
    </a>
 </div>
 
