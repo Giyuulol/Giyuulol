@@ -26,8 +26,7 @@
 ---
 
 ### 📫 Conecte-se comigo
-- [LinkedIn](link_do_linkedin)
-- [Twitter](link_do_twitter)
+- [LinkedIn]((https://www.linkedin.com/in/fscode00/)
 
 ### 🙏 Agradecimentos
 Obrigado por visitar meu perfil! Estou sempre aberto a colaborações e aprendizados. 😊
